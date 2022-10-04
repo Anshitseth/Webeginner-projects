@@ -10,6 +10,4 @@ I have designed a Simple Registration Form using html , css and bootstrap and al
 ![image](https://user-images.githubusercontent.com/102297610/186819875-33a8f13b-4f84-4ef0-b482-d63bd54e8581.png)
 ![image](https://user-images.githubusercontent.com/102297610/186819976-a0b32f6e-ff2d-40d7-a10f-7131732ffe5d.png)
 
-[![Run on Repl.it](https://replit.com/badge/github/Anshitseth/Webeginner-projects)](https://replit.com/new/github/Anshitseth/Webeginner-projects)
-
 >Submision under SSOC'22
